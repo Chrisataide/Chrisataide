@@ -1,4 +1,4 @@
-# Olá, bem vindo(a) ao meu espaço! 😁
+# Olá, bem vindo(a) ao meu espaço! 😉
 
 ##### Sou um estudante de programação que ama técnologia!
 
