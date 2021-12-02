@@ -2,10 +2,11 @@
 
 ##### Sou um estudante de programação que ama técnologia!
 
-- 🎂 27 Anos
-- 💼 Atualmente trabalho como Gerente de Suporte.
+- 🎂 27 Anos.
+- 💼 CEO & Founder First Step Technology.
+- 👨‍💻 Atualmente trabalho como Gerente de Suporte.
 - ❤️ Gosto de Front-end e Back-end.
-- 📖 Atualmente estou cursando Analises e Desenvolvimento de Sistemas.
+- 👨‍🎓 Atualmente estou cursando Analises e Desenvolvimento de Sistemas.
 
 <div>
 
