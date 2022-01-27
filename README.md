@@ -3,7 +3,7 @@
 ##### Sou um estudante de programação que ama técnologia!
 
 - 🎂 27 Anos.
-- 💼 CEO & Founder First Step Technology.
+- 💼 CEO & Founder iCodev.
 - 👨‍💻 Atualmente trabalho como Gerente de Suporte.
 - ❤️ Gosto de Front-end e Back-end.
 - 👨‍🎓 Atualmente estou cursando Analises e Desenvolvimento de Sistemas.
