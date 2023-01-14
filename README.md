@@ -2,7 +2,7 @@
 
 ##### Sou um estudante de programação que ama técnologia!
 
-- 🎂 27 Anos.
+- 🎂 28 Anos.
 - 💼 CEO & Founder iCodev.
 - 👨‍💻 Atualmente trabalho como Gerente de Suporte.
 - ❤️ Gosto de Front-end.
